@@ -5,7 +5,7 @@ entrypoint = "uni-muenster-pres-schloss.typ"
 authors = [ "Wölkchen" ]
 license = "MIT (with exceptions)"
 description = "Unofficial Typst + Polylux presentation template in the style of the University of Muenster Schloss-Blue"
-repository = "https://github.com/Woelkchen/"
+repository = "https://github.com/Woelkchen/uni-ms-pres-schloss/"
 keywords = [
   "presentation",
   "polylux",
