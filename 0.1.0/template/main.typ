@@ -54,10 +54,14 @@
   - #lorem(5)  
   - #lorem(7)
   ]
-  you can also use one-by-one.
-  
+  you can also use one-by-one, only, alternatives and mote like this:
+
+  #only((beginning: 6))[
   + #lorem(7)
+  ]
+  #only((beginning: 7))[
   + #lorem(11)
+  ]
 ]
 
 #slide(
@@ -93,7 +97,7 @@
   #align(center)[
     #block(
       stroke: 2.5pt + lapis,
-      fill: light_grey,
+      fill: light-grey,
       radius: 0.5em,
       inset: 0.5em,
     )[
@@ -103,13 +107,11 @@
     ]
   ]
 
-  #show: later
-
   What else is possible with polylux?
   #align(center)[
     #block(
       stroke: 2.5pt + lapis,
-      fill: light_grey,
+      fill: light-grey,
       radius: 0.5em,
       inset: 0.5em,
     )[
@@ -119,13 +121,11 @@
     ]
   ]
 
-  #show: later
-
   How can I generate a handout from my presentation? (Turn animations off.)
   #align(center)[
     #block(
       stroke: 2.5pt + lapis,
-      fill: light_grey,
+      fill: light-grey,
       radius: 0.5em,
       inset: 0.5em,
     )[
@@ -146,7 +146,7 @@
   #align(center)[
     #block(
       stroke: 2.5pt + lapis,
-      fill: light_grey,
+      fill: light-grey,
       radius: 0.5em,
       inset: 0.5em,
     )[
@@ -161,7 +161,7 @@
   #align(center)[
     #block(
       stroke: 2.5pt + lapis,
-      fill: light_grey,
+      fill: light-grey,
       radius: 0.5em,
       inset: 0.5em,
     )[
