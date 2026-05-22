@@ -74,7 +74,7 @@ For the closest visual match to the university style, use text font Carlito (<ht
 The default code font is set as JetBrains Mono (<https://fonts.google.com/specimen/JetBrains+Mono>) but only due to personal liking.
 
 The theme includes fallback fonts, so it still compiles when those fonts are unavailable.
-In the web version you can simply copy the `.ttf` files into the project and they should be recognized automaticly.
+In the web version you can simply copy the `.ttf` files into the project and they should be recognized automatically.
 For further help or to setup the fonts with a local compiler, please see the [typst font parameter documentation](https://typst.app/docs/reference/text/text/#parameters-font:~:text=In%20addition%2C%20you%20can%20use%20the%20%2D%2Dfont%2Dpath%20argument%20or%20TYPST_FONT_PATHS%20environment%20variable%20to%20add%20directories%20that%20should%20be%20scanned%20for%20fonts.%20The%20priority%20is%3A%20%2D%2Dfont%2Dpaths%20%3E%20system%20fonts%20%3E%20embedded%20fonts.%20Run%20typst%20fonts%20to%20see%20the%20fonts%20that%20Typst%20has%20discovered%20on%20your%20system.).
 Local setups might need different configurations.
 
